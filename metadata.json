@@ -1,0 +1,5 @@
+{
+  "name": "SpriteAlchemist",
+  "description": "An intelligent sprite sheet slicer and GIF generator. Upload a sprite sheet, use AI or Grid tools to slice frames, and export as an animated GIF.",
+  "requestFramePermissions": []
+}
